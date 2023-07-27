@@ -14,3 +14,13 @@ You probably do not want to use this directly.
 
 But if you find it as a transitive dependency, unlike `com.google.code.findbugs/jsr305`, it will be
 basically inert and unproblematic.
+
+## Usage
+
+```xml
+<dependency>
+    <groupId>dev.mccue</groupId>
+    <artifactId>jsr305</artifactId>
+    <version>3.0.2</version>
+</dependency>
+```
